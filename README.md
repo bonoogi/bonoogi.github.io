@@ -1,1 +1,0 @@
-# bonoogi.github.io
