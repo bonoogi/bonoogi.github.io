@@ -1,0 +1,5 @@
+baseURL: https://bonoogi.github.io/
+languageCode: ko-kr
+title: Hell yeah, World
+theme: PaperMod
+paginate: 10
