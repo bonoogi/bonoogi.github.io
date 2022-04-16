@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://bonoogi.github.io/sitemap.xml
