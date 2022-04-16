@@ -1,3 +1,3 @@
 User-agent: *
-Disallow:
 Sitemap: https://bonoogi.github.io/sitemap.xml
+#DaumWebMasterTool:0c445448d791e966d5af6adbf1a3f9c8929caca8c654a49bde1c822cc44c18ca:SC+XGeIFB4l1RikEv0FqxA==
